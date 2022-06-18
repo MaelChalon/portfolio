@@ -1,0 +1,30 @@
+.main{
+    margin: 20px;
+    padding: 20px;
+    width: 80%;
+}
+.description{
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.description article{
+    width: 50%;
+    margin: 10px;
+}
+.description p{
+    margin: 10px;
+}
+.description h3{
+    margin: 20px;
+}
+.description img{
+    height:50%;
+    width: 50%;
+}
+aside li{
+    list-style: none;
+    padding: 5px 0px 5px 0;
+}

@@ -1,0 +1,108 @@
+.page{
+    width: 25%;
+    text-align: center;
+    border: 2px solid #04248F;
+    border-radius: 10px;
+    margin: 1% 37% 0 37%;
+    padding: 1% 0 1% 0;
+    background-color: white;
+}
+
+.page a{
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    padding: 1%;
+}
+
+.page span{
+    color: black;
+}
+
+.page a:hover{
+    background-color:#BC002D ;
+    
+}
+
+aside div {
+    margin: 50px 0 0 0;
+}
+
+aside{
+    text-align: center;
+}
+
+aside a{
+    text-decoration: none;
+    color: black;
+    padding: 5px 25px 5px 25px;
+    border: 2px solid #04248F;
+    border-radius: 10px;
+    background-color: white;
+}
+
+aside a:hover{
+    background-color: #BC002D;
+    color: white;
+}
+
+/* ↓ menu déroulant du questionaire ↓ */
+.bloc {
+    display: flex;
+    flex-direction: column;
+    align-items : center;
+    justify-content: center;
+  }
+  
+  /*Réinitilaisation de la liste déroulante*/
+  select {
+    appearance: none;
+    outline: 0;
+    border: 0 !important;
+    background: #F9F9F9;
+    background-image: none;
+    box-shadow: none;
+  }
+  
+  /* Mise en forme de la div .select*/
+  .select {
+    position: relative;
+    width: 100%;
+    height: 30px;
+    overflow: hidden;
+    border-radius: 5px;
+    border: 1px solid #CED4DA;
+  }
+  
+  /* Mise en forme de la balise select*/
+  select {
+    margin-left: 50px;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding-left: 15px;
+    color: black;
+    cursor: pointer;
+  }
+  
+  
+  /* Mise en place de la flèche */
+  .select::after {
+    content: '\276F';
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 0 15px;
+    background: white;
+    pointer-events: none;
+    transform: rotate(90deg);
+    font-size: 1.5em;
+    background: #F9F9F9;
+  }
+  
+  
+  .select:hover::after {
+    color: #BC002D;
+  }
+
+/* ↑ menu déroulant du questionaire ↑ */

@@ -1,0 +1,42 @@
+main img{
+    width: 20%;
+}
+.description{
+    width: 40%;
+}
+.commande{
+    width: 20%;
+    border: 2px solid #04248F;
+    background-color: white;
+    border-radius: 10px;
+    text-align: center;
+    padding: 10% 0 10% 0;
+}
+
+main div{
+    align-items: center;
+}
+
+main article p{
+    padding: 10px 0 10px 0;
+}
+
+.prix{
+    margin-bottom: 50px;
+}
+
+main article a{
+    font-size: 24px;
+    color: #BC002D;
+    text-decoration: none;
+    padding: 10px 25px;
+    background-color: #C1BFB5;
+    border: 2px solid #04248F;
+}
+
+main article a:hover{
+    color: #C1BFB5;
+    background-color: #BC002D;
+    border: 2px solid #BC002D;
+}
+

@@ -1,0 +1,28 @@
+main article:hover {
+    background-color: #BC002D;
+    border-color: #BC002D;
+    color: white;
+}
+
+main article{
+    width: 20%;
+    margin: 10px 0 10px 0;
+    border: 2px solid #04248F;
+    border-radius: 10px;
+}
+
+main article a{
+    text-align: center;
+    text-decoration: none;
+    color: black;
+}
+
+main article p{
+    padding: 10px;
+}
+
+main article img{
+    width: 100%;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}

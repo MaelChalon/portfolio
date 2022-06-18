@@ -1,0 +1,223 @@
+/*
+↓ Partie general footer et header ↓
+*/
+
+*{
+	margin: 0;
+	padding: 0;
+    font-family: 'DejaVu Serif', arial;
+    
+}
+body{
+    background-color: #FFF5D9;
+}
+
+header{
+    margin: 10px 0 10px 0;
+    display: flex;
+    flex-direction:row;
+    text-align: center; 
+    font-size: 90%;
+}
+
+header img{
+    width: 100%;   
+}
+
+.logo{
+    width: 10%;
+    background-color: #c1bfb5;
+    margin-right: 5%;
+    margin-left: 2%;
+    padding: 20px;
+    border:2px solid #04248f;
+    border-radius: 10px;
+}
+.logo:hover{
+    background-color: white;
+}
+
+header nav{
+    width: 70%;
+    text-align: center;
+    background-color: #c1bfb5;
+    margin-left: 5%;
+    border:2px solid #04248f;
+    border-radius: 10px;
+}
+header nav ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+}
+header nav ul a{
+    text-decoration: none;
+    color:#04248f;
+    font-size: 150%;
+    background-color: white;
+    border-radius: 10px;
+    padding:5px 25px 5px 25px;
+}
+
+header nav ul li {
+    list-style: none;
+    margin: 10px 0 10px 0;
+}
+
+header nav ul a:hover {
+    background-color: #04248f;
+    color: white;
+}
+
+.flex{
+	display: flex;
+	flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+footer{
+    background-color: #C1BFB5;
+    border-top: 2px solid #04248F;
+}
+
+footer ul{
+    list-style-type : none;
+}
+
+footer section li a{
+    color: black;
+}
+footer section li a:hover{
+    color: #BC002D;
+}
+footer section h2 {
+    margin: 0 0 10px 0;
+}
+
+footer section{
+	width : 20%;
+	text-align: center;
+    margin: 20px 0 20px 0;
+}
+footer iframe{
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+/*
+↑ Partie header foot ↑
+
+↓ Partie arengement ↓
+*/
+
+div aside  {
+    width: 15%;
+    background-color: #C1BFB5;
+    margin: 1%;
+    padding: 1%;
+    border: 2px solid #04248F;
+    border-radius: 10px;
+}
+
+div main{
+    margin: 1%;
+    padding: 1%;
+    width: 75%;
+    background-color: #C1BFB5;
+    border: 2px solid #04248F;
+    border-radius: 10px;
+
+}
+
+
+/*
+↑ Partie arengement ↑
+
+↓ Partie font ↓
+*/
+
+h1{
+    margin-bottom: 10px;
+    font-size:44px;
+    margin-top: 10px;
+}
+
+h1 a{
+    color: #BC002D;
+    text-decoration: none;
+    background-color: white;
+    border-radius: 10px;
+    padding: 5px 40px 5px 40px;
+    
+}
+h1 a:hover{
+    color: #04248f;
+    background-color:#BC002D ;
+    
+}
+
+h2{
+    text-align: center;
+    font-size: 34px;
+    color: #04248F;
+    padding-bottom: 20px;
+}
+
+aside h2{
+    font-size: 24px;
+}
+h3{
+    font-size: 24px;
+}
+p{
+    font-size: 14px;
+}
+
+/*
+↑ Partie font ↑
+
+↓ Partie acceuil ↓
+*/
+
+
+
+
+
+
+
+/*
+↑ artie acceuil ↑
+
+↓ Partie evenement ↓
+*/
+
+
+
+
+
+/*
+↑ artie evenement ↑
+
+↓ Partie calendrier ↓
+*/
+
+
+
+
+
+
+/*
+↑ artie calendrier ↑
+
+↓ Partie catalogue ↓
+*/
+
+
+
+
+
+/*
+↑ artie catalogue ↑
+*/

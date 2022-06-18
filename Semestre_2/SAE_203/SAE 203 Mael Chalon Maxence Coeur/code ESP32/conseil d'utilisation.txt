@@ -1,0 +1,3 @@
+Pour tester le code sur vos ESP il faut penser à entrer l'addresse MAC de chaque ESP dans AdresseMac_Serveur.h et AdresseMac_Client.h.
+Au lancement de chaque ESP avec notre code, l'adresse MAC est affiché dans le monitor serie.
+Deplus un ESP doit servir de "Serveur" et l'autre de Client. Ainsi il faut compiler les .ino correspondant.
