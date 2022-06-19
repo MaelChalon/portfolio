@@ -1,0 +1,4 @@
+﻿  Source.cpp
+Z:\Documents\tp init algo\post vacances\tp3\tp3\Source.cpp(148,22): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+Z:\Documents\tp init algo\post vacances\tp3\tp3\Source.cpp(149,22): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+  tp3.vcxproj -> Z:\Documents\tp init algo\post vacances\tp3\Debug\tp3.exe

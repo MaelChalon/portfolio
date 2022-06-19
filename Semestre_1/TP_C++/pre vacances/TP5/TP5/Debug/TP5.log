@@ -1,0 +1,4 @@
+﻿  exo4.cpp
+\\iutbg-smbetu.univ-lyon1.fr\homes\Documents\tp init algo\TP5\TP5\exo4.cpp(21,14): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+\\iutbg-smbetu.univ-lyon1.fr\homes\Documents\tp init algo\TP5\TP5\exo4.cpp(22,9): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+  TP5.vcxproj -> \\iutbg-smbetu.univ-lyon1.fr\homes\Documents\tp init algo\TP5\Debug\TP5.exe

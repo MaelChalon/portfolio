@@ -1,0 +1,17 @@
+﻿  note_étudiant.cpp
+\\iutbg-smbetu.univ-lyon1.fr\homes\Documents\tp init algo\TP6\Project1\Project1\TP6_notes.h(8,113): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+\\iutbg-smbetu.univ-lyon1.fr\homes\Documents\tp init algo\TP6\Project1\Project1\note_étudiant.cpp(14,14): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+\\iutbg-smbetu.univ-lyon1.fr\homes\Documents\tp init algo\TP6\Project1\Project1\note_étudiant.cpp(15,9): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+\\iutbg-smbetu.univ-lyon1.fr\homes\Documents\tp init algo\TP6\Project1\Project1\note_étudiant.cpp(101,45): warning C4101: 'ind_max' : variable locale non référencée
+\\iutbg-smbetu.univ-lyon1.fr\homes\Documents\tp init algo\TP6\Project1\Project1\note_étudiant.cpp(101,36): warning C4101: 'ind_min' : variable locale non référencée
+\\iutbg-smbetu.univ-lyon1.fr\homes\Documents\tp init algo\TP6\Project1\Project1\note_étudiant.cpp(132,11): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+\\iutbg-smbetu.univ-lyon1.fr\homes\Documents\tp init algo\TP6\Project1\Project1\note_étudiant.cpp(139,24): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+\\iutbg-smbetu.univ-lyon1.fr\homes\Documents\tp init algo\TP6\Project1\Project1\note_étudiant.cpp(163,29): warning C4101: 'm2' : variable locale non référencée
+\\iutbg-smbetu.univ-lyon1.fr\homes\Documents\tp init algo\TP6\Project1\Project1\note_étudiant.cpp(163,18): warning C4101: 'm1' : variable locale non référencée
+\\iutbg-smbetu.univ-lyon1.fr\homes\Documents\tp init algo\TP6\Project1\Project1\note_étudiant.cpp(163,13): warning C4101: 'max' : variable locale non référencée
+\\iutbg-smbetu.univ-lyon1.fr\homes\Documents\tp init algo\TP6\Project1\Project1\note_étudiant.cpp(162,30): warning C4101: 'gd_ecart' : variable locale non référencée
+\\iutbg-smbetu.univ-lyon1.fr\homes\Documents\tp init algo\TP6\Project1\Project1\note_étudiant.cpp(162,20): warning C4101: 'notePlus' : variable locale non référencée
+\\iutbg-smbetu.univ-lyon1.fr\homes\Documents\tp init algo\TP6\Project1\Project1\note_étudiant.cpp(162,6): warning C4101: 'i' : variable locale non référencée
+\\iutbg-smbetu.univ-lyon1.fr\homes\Documents\tp init algo\TP6\Project1\Project1\note_étudiant.cpp(162,9): warning C4101: 'ind_min' : variable locale non référencée
+\\iutbg-smbetu.univ-lyon1.fr\homes\Documents\tp init algo\TP6\Project1\Project1\note_étudiant.cpp(163,8): warning C4101: 'moy' : variable locale non référencée
+  Project1.vcxproj -> \\iutbg-smbetu.univ-lyon1.fr\homes\Documents\tp init algo\TP6\Project1\Debug\TP6.exe

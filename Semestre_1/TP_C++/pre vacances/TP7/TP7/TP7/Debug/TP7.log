@@ -1,0 +1,5 @@
+﻿  TP7_bataille_etudiant.cpp
+\\iutbg-smbetu.univ-lyon1.fr\homes\Documents\tp init algo\TP7\TP7\TP7\TP7_bataille_etudiant.cpp(68,53): warning C4101: 'j' : variable locale non référencée
+\\iutbg-smbetu.univ-lyon1.fr\homes\Documents\tp init algo\TP7\TP7\TP7\TP7_bataille_etudiant.cpp(125,12): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+\\iutbg-smbetu.univ-lyon1.fr\homes\Documents\tp init algo\TP7\TP7\TP7\TP7_bataille_etudiant.cpp(131,6): warning C4101: 'i' : variable locale non référencée
+  TP7.vcxproj -> \\iutbg-smbetu.univ-lyon1.fr\homes\Documents\tp init algo\TP7\TP7\Debug\TP7.exe

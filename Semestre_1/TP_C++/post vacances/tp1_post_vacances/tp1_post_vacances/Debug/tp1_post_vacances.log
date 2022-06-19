@@ -1,0 +1,6 @@
+﻿  ex2.cpp
+\\iutbg-smbetu.univ-lyon1.fr\homes\Documents\tp init algo\tp1_post_vacances\tp1_post_vacances\ex2.cpp(173,12): warning C4101: 'k' : variable locale non référencée
+\\iutbg-smbetu.univ-lyon1.fr\homes\Documents\tp init algo\tp1_post_vacances\tp1_post_vacances\ex2.cpp(173,15): warning C4101: 'l' : variable locale non référencée
+\\iutbg-smbetu.univ-lyon1.fr\homes\Documents\tp init algo\tp1_post_vacances\tp1_post_vacances\ex2.cpp(173,9): warning C4101: 'j' : variable locale non référencée
+\\iutbg-smbetu.univ-lyon1.fr\homes\Documents\tp init algo\tp1_post_vacances\tp1_post_vacances\ex2.cpp(173,6): warning C4101: 'i' : variable locale non référencée
+  tp1_post_vacances.vcxproj -> \\iutbg-smbetu.univ-lyon1.fr\homes\Documents\tp init algo\tp1_post_vacances\Debug\tp1_post_vacances.exe

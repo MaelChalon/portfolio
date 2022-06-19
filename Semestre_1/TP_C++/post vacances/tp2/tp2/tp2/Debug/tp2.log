@@ -1,0 +1,6 @@
+﻿  voyageur_de_commerce.cpp
+\\iutbg-smbetu.univ-lyon1.fr\homes\Documents\tp init algo\post vacances\tp2\tp2\tp2\voyageur_de_commerce.cpp(53,6): warning C4101: 'LgCumulee' : variable locale non référencée
+\\iutbg-smbetu.univ-lyon1.fr\homes\Documents\tp init algo\post vacances\tp2\tp2\tp2\voyageur_de_commerce.cpp(50,19): warning C4101: 'arriveEtape' : variable locale non référencée
+\\iutbg-smbetu.univ-lyon1.fr\homes\Documents\tp init algo\post vacances\tp2\tp2\tp2\voyageur_de_commerce.cpp(50,6): warning C4101: 'departEtape' : variable locale non référencée
+\\iutbg-smbetu.univ-lyon1.fr\homes\Documents\tp init algo\post vacances\tp2\tp2\tp2\voyageur_de_commerce.cpp(52,6): warning C4101: 'Etape' : variable locale non référencée
+  tp2.vcxproj -> \\iutbg-smbetu.univ-lyon1.fr\homes\Documents\tp init algo\post vacances\tp2\tp2\Debug\tp2.exe
