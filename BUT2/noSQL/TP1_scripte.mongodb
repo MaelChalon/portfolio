@@ -1,0 +1,64 @@
+db.getMongo().getDBNames()
+
+show collections
+show dbs
+
+db.users.insert({
+	firstname : "Toto",
+	lastname : "Doe",
+	birthday : new Date("1997-05-03"),
+	adresse : {
+		street : "1 rue Peter Fink",
+		city : "Bourg-en-Bresse",
+		zip : "01000"
+	}
+})
+
+db.users.insert({
+	firstname : "Tata",
+	lastname : "Roe",
+	birthday : new Date("1998-08-27"),
+	adresse : {
+		street : "23 Avenue Pierre de Coubertin",
+		city : "Villeurbanne",
+		zip : "69100"
+	}
+})
+
+db.users.find()
+
+db.users.find({firstname : "Toto", lastname : "Doe"}, {})
+
+db.users.find({"adresse.city": "Bourg-en-Bresse"}, {})
+
+db.users.insert({
+	firstname : "Tata",
+	lastname : "Roe",
+	birthday : new Date("1995-01-13"),
+	adresse : {
+		street : "1 rue Peter Fink",
+		city : "Bourg-en-Bresse",
+		zip : "01000"
+	}
+})
+
+db.users.updateOne({
+	firstname : "Tata", lastname : "Roe", "adresse.city": "Bourg-en-Bresse"
+},
+{
+	$set: {job: "teacher"}
+})
+
+db.users.find({job : "teacher"}, {})
+
+db.users.find({birthday: { $gt: new Date("1998-01-01")}}, {})
+
+db.users.aggregate([
+	{$sort: {birthday: 1}}
+])
+
+db.users.deleteMany({})
+
+db.users.drop()
+
+db.dropDatabase()

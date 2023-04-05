@@ -1,0 +1,38 @@
+@startuml
+
+class client{
+id : int{key}
+nom : text
+prenom : text
+adresse : text
+telephone : text
+date_naissance : date
+sexe : text
+}
+
+class facture{
+id : int{key}
+date_etablissement : date
+}
+
+class produit{
+id : int{key}
+designation : text
+prix : float
+stock : int
+}
+
+facture "*" -- "1..*" produit
+(facture, produit) .. contient
+class contient{
+quantité: int
+}
+
+facture "*" -- "1" client : appartient
+
+
+
+
+
+
+@enduml
